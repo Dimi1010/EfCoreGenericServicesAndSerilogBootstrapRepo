@@ -1,6 +1,7 @@
 ﻿using EfCoreGenericServicesAndSerilogBootstrapRepo.Data;
 using GenericServices.Setup;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging.Abstractions;
 
 namespace EfCoreGenericServicesAndSerilogBootstrapRepo
 {
